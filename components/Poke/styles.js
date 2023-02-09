@@ -13,6 +13,6 @@ export const Cartao = styled.div`
   box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.5);
   background-color: #c8c8c8 ;
   margin-bottom: 4vw;
-  margin: 3vw auto;
+  margin: 4vw auto;
   color: #4a4a4a;
 `;
